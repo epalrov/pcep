@@ -1,0 +1,16 @@
+pcep:           example of PCEP protocol (RFC5440).
+
+                This package implements the Path Computation Element (PCE)
+                Communication Protocol (PCEP) for communications between a Path
+                Computation Client (PCC) and a PCE, or between two PCEs.  Such
+                interactions include path computation requests and path computation
+                replies as well as notifications of specific states related to the
+                use of a PCE in the context of Multiprotocol Label Switching (MPLS)
+                and Generalized MPLS (GMPLS) Traffic Engineering.  PCEP is designed
+                to be flexible and extensible so as to easily allow for the addition
+                of further messages and objects, should further requirements be
+                expressed in the future.
+
+author:         Paolo Rovelli
+contact:        paolorovelli@yahoo.it
+
